@@ -1,4 +1,4 @@
-# Chidubem's CodePath Worl
+# Chidubem's CodePath Work
 
 Welcome to my repository containing work completed during CodePath's **Technical Interview Prep** course. This course focuses on intermediate data structures, algorithms, and problem-solving techniques, preparing participants for technical interviews by applying the UMPIRE technique.
 
