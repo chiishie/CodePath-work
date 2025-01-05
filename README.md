@@ -54,14 +54,8 @@ Welcome to my repository containing work completed during CodePath's **Technical
   - Advanced graph problems (shortest paths, topological sort)  
   - Common DP patterns (knapsack, coin change, Fibonacci variations)  
 
----
 
 ## 🛠 Tools & Technologies
 - **Programming Languages:** Python  
 - **Development Environment:** Visual Studio Code  
 - **Platforms:** LeetCode, HackerRank  
-
----
-
-Thank you for exploring my work from the CodePath **Technical Interview Prep** course!  
-Feel free to browse each weekly folder for problem solutions, notes, and additional insights.
