@@ -6,44 +6,56 @@ Welcome to my repository containing work completed during CodePath's **Technical
 
 ## 🗓 Weekly Breakdown
 
-### Week 1: Python Fundamentals
-- **Topics Covered:** Python Syntax, Variables, Data Types, Functions
-- **Sample Problems:** Practice exercises on Python basics and HackerRank assessments.
+### Week 1: Python Fundamentals / Strings & Lists
+- **Topics Covered (Python Fundamentals):**  
+  - Python Syntax, Variables, Data Types, Functions  
+- **Topics Covered (Strings & Lists):**  
+  - Iteration, String Manipulation, List Manipulation  
+- **Sample Problems:**  
+  - Practice exercises on Python basics, HackerRank assessments, LeetCode string/list problems  
 
-### Week 2: Strings & Lists
-- **Topics Covered:** Iteration, String Manipulation, List Manipulation
-- **Sample Problems:** Manipulating strings and lists, solving LeetCode problems.
+### Week 2: Stacks, Queues, Two Pointer / Dictionaries & Hashmaps / Week 1 & 2 Review
+- **Topics Covered (Stacks, Queues, Two Pointer):**  
+  - Stack and Queue operations (push, pop, enqueue, dequeue)  
+  - Two Pointer technique for array/string problems  
+  - Review of Week 1 & 2 fundamentals  
+- **Topics Covered (Dictionaries & Hashmaps):**  
+  - Key-Value Pairs, Frequency Maps, Nested Data  
+- **Sample Problems:**  
+  - Implementing and using stacks/queues in Python  
+  - Frequency map problems and dictionary-based solutions  
 
-### Week 3: Dictionaries & Hashmaps
-- **Topics Covered:** Key-Value Pairs, Frequency Maps, Nested Data
-- **Sample Problems:** Hashmap implementation and frequency map problems.
+### Week 3: Linked Lists
+- **Topics Covered:**  
+  - Node Structure, Traversal, Insertion, Deletion, Slow-Fast Pointer, Reversal  
+- **Sample Problems:**  
+  - Building, reversing, and detecting cycles in linked lists  
 
-### Week 4: Linked Lists
-- **Topics Covered:** Node Structure, Traversal, Insertion, Deletion, Slow-Fast Pointer, Reversal
-- **Sample Problems:** Building and traversing linked lists.
+### Week 4: Recursion & Divide-and-Conquer / Trees
+- **Topics Covered (Recursion & Divide-and-Conquer):**  
+  - Recursive Functions, Binary Search, Merge Sort  
+- **Topics Covered (Trees):**  
+  - Node Structure, Traversal (Preorder, Inorder, Postorder), Binary Trees, Binary Search Trees  
+- **Sample Problems:**  
+  - Recursively solving tree traversals, implementing binary search, sorting subproblems  
 
-### Week 5: Recursion & Divide-and-Conquer
-- **Topics Covered:** Recursive Functions, Binary Search, Merge Sort
-- **Sample Problems:** Recursive function problems and divide-and-conquer strategies.
+### Week 5: Trees and Graphs
+- **Topics Covered:**  
+  - Deeper Tree Applications  
+  - Graph Representations, BFS, DFS, Backtracking, Matrix Problems  
+- **Sample Problems:**  
+  - Graph traversal, adjacency list/matrix creation, solving tree/graph combined problems  
 
-### Week 6: Trees
-- **Topics Covered:** Node Structure, Traversal, Binary Trees, Binary Search Trees
-- **Sample Problems:** Implementing tree traversal algorithms.
+### Week 6: Graphs and Dynamic Programming
+- **Topics Covered:**  
+  - Further exploration of Graphs, BFS/DFS variants  
+  - Dynamic Programming (Memoization, Tabulation, Bottom-Up, Top-Down)  
+- **Sample Problems:**  
+  - Advanced graph problems (shortest paths, topological sort)  
+  - Common DP patterns (knapsack, coin change, Fibonacci variations)  
 
-### Week 7: Graphs
-- **Topics Covered:** Graph Representations, BFS, DFS, Backtracking, Matrix Problems
-- **Sample Problems:** Graph traversal and matrix problem-solving.
-
-### Week 8: Dynamic Programming
-- **Topics Covered:** Memoization, Tabulation, Bottom-Up, Top-Down
-- **Sample Problems:** Solving dynamic programming problems using various approaches.
-
----
 
 ## 🛠 Tools & Technologies
-- **Programming Languages:** Python
-- **Development Environment:** VS Code
-- **Platforms:** LeetCode, HackerRank
-
-
-Thank you for exploring my work from the CodePath Technical Interview Prep 102 course!
+- **Programming Languages:** Python  
+- **Development Environment:** Visual Studio Code  
+- **Platforms:** LeetCode, HackerRank  
