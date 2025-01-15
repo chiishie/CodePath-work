@@ -80,7 +80,10 @@ def is_profitable(excursion_counts):
     
     return -1
 
-    
+
+
+
+
 print(is_profitable([3, 5]))
 print(is_profitable([0, 0]))
 
